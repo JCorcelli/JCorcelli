@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JCorcelli
 - 👀 I’m interested in computers and games.
-- 🌱 I’m currently learning nada.
-- 💞️ I’m looking to collaborate on nada.
-- 📫 How to reach me idk.
+- 🌱 I’m currently learning how to write a pretty damn good novel.
+- 💞️ I’m looking to collaborate on games or my developer tools.
+- 📫 How to reach me, ActiveUnique@gmail.com
 
 <!---
 JCorcelli/JCorcelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
